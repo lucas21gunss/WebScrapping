@@ -27,15 +27,13 @@ Instruções de Execução
 1. Executar o Script de Web Scraping
 Este script coleta dados diretamente do site e gera o arquivo weather_scraped.csv.
 
-bash
-Copiar
+
 python script_webscraping.py
 Após a execução, verifique a criação do arquivo weather_scraped.csv na pasta do projeto.
 
 2. Executar o Script da API
 Este script coleta dados do clima utilizando a API da Open-Meteo e gera o arquivo weather_api.csv.
 
-bash
-Copiar
+
 python script_api.py
 Após a execução, verifique a criação do arquivo weather_api.csv na pasta do projeto.
