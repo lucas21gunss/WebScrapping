@@ -9,6 +9,9 @@ Os dados coletados são salvos em arquivos CSV. Este projeto também inclui a do
 
 ## Estrutura do Repositório
 
+├── script_webscraping.py # Script para coleta via Web Scraping ├── script_api.py # Script para coleta via API ├── weather_scraped.csv # CSV gerado pelo script de Web Scraping ├── weather_api.csv # CSV gerado pelo script da API └── README.md # Este arquivo com instruções e descrição do projeto
+
+
 
 ## Pré-requisitos
 
